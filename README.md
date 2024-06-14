@@ -16,6 +16,11 @@ Breakes down a problem into steps identiyfing what data structure is best for th
 ### Time Complexity
 Way of showing how the runtime of a function increases as the size of input increases.
 
+How long it takes to complete a task.
+
+### Space Complexity
+It deals with the amount of memory taken up on the computer.
+
 <img src="./docs/algorithmic-complexity.png">
 
 ## References
