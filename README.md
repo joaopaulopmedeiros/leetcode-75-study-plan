@@ -31,14 +31,14 @@ It means the order of magnitude of complexity.
 <img src="./docs/algorithmic-complexity.png">
 
 
-| Notation    | Description |
-| -------- | ------- |
-| O(1)     | constant time |
-| O(logn)  | logarithmic time   |
-| O(n)     | linear time   |
-| O(nlogn) | Quasilinear time  |
-| O(n^2)   | quadratic time  |
-| O(n^3)   | cubic time    |
+| Notation    | Description | Example
+| -------- | ------- | ------- | 
+| O(1)     | constant time | Access item of array at a given position/index |
+| O(logn)  | logarithmic time   | Binary Search |
+| O(n)     | linear time   | Linear Search |
+| O(nlogn) | Quasilinear time  | Merge Sort |
+| O(n^2)   | quadratic time  | |
+| O(n^3)   | cubic time    | |
 
 
 ## References
