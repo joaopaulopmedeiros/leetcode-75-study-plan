@@ -25,6 +25,8 @@ It deals with the amount of memory taken up on the computer.
 Theoretical definition of the complexity of an algorithm as a function of the size.
 
 It means the order of magnitude of complexity.
+
+Upper bounds because it measures how the algorithm performsn in the worst case scenario.
 <img src="./docs/algorithmic-complexity.png">
 
 ## References
