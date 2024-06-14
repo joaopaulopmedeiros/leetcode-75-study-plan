@@ -30,13 +30,16 @@ It means the order of magnitude of complexity.
 
 <img src="./docs/algorithmic-complexity.png">
 
-#### ** Captions
-- O(1): constant time;
-- O(logn): logarithmic time;
-- O(n): linear time;
-- O(nlogn): Quasilinear time;
-- O(n^2): quadratic time
-- O(n^3): cubic time;
+
+| Notation    | Description |
+| -------- | ------- |
+| O(1)     | constant time |
+| O(logn)  | logarithmic time   |
+| O(n)     | linear time   |
+| O(nlogn) | Quasilinear time  |
+| O(n^2)   | quadratic time  |
+| O(n^3)   | cubic time    |
+
 
 ## References
 - [Youtube - Algorithms and Data Structures Tutorial](https://www.youtube.com/watch?v=8hly31xKli0)
