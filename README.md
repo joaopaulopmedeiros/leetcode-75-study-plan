@@ -7,7 +7,8 @@ A set of steps or instructions for completing a task.
 - Clearly defined problem statement with input and output;
 - The steps in the algorithm need to be in a very specific order;
 - The steps also need to be distinct;
-- The algorithm should produce a result.
+- The algorithm should produce a result;
+- The algorithm should finish in a finite amount of time.
 
 ### Algorithmic Thinking
 Breakes down a problem into steps identiyfing what data structure is best for the task.
