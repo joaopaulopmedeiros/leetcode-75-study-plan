@@ -23,6 +23,8 @@ It deals with the amount of memory taken up on the computer.
 
 ### Big-O Notation
 Theoretical definition of the complexity of an algorithm as a function of the size.
+
+It means the order of magnitude of complexity.
 <img src="./docs/algorithmic-complexity.png">
 
 ## References
