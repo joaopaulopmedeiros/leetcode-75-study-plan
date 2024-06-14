@@ -27,6 +27,11 @@ Theoretical definition of the complexity of an algorithm as a function of the si
 It means the order of magnitude of complexity.
 
 "Upper bounds" because it measures how the algorithm performs in the worst case scenario.
+
+- O(1): constant time;
+- O(logn): logarithmic time;
+- O(n): linear time;
+- O(n^2): quadratic time
 <img src="./docs/algorithmic-complexity.png">
 
 ## References
