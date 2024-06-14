@@ -22,6 +22,7 @@ How long it takes to complete a task.
 It deals with the amount of memory taken up on the computer.
 
 ### Big-O Notation
+Theoretical definition of the complexity of an algorithm as a function of the size.
 <img src="./docs/algorithmic-complexity.png">
 
 ## References
