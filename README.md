@@ -21,6 +21,7 @@ How long it takes to complete a task.
 ### Space Complexity
 It deals with the amount of memory taken up on the computer.
 
+### Big-O Notation
 <img src="./docs/algorithmic-complexity.png">
 
 ## References
