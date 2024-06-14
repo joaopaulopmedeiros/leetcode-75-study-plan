@@ -26,7 +26,7 @@ Theoretical definition of the complexity of an algorithm as a function of the si
 
 It means the order of magnitude of complexity.
 
-"Upper bounds" because it measures how the algorithm performsn in the worst case scenario.
+"Upper bounds" because it measures how the algorithm performs in the worst case scenario.
 <img src="./docs/algorithmic-complexity.png">
 
 ## References
