@@ -37,8 +37,8 @@ It means the order of magnitude of complexity.
 | O(logn)  | logarithmic time   | Binary Search |
 | O(n)     | linear time   | Linear Search |
 | O(nlogn) | Quasilinear time  | Merge Sort |
-| O(n^2)   | quadratic time  | |
-| O(n^3)   | cubic time    | |
+| O(n^2)   | quadratic time  | Brute Force |
+| O(n^3)   | cubic time    | Brute Force |
 
 
 ## References
