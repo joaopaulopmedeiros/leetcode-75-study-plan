@@ -2,6 +2,12 @@
 
 ## Concepts Overview
 
+### Algorithm
+A set of steps or instructions for completing a task.
+
+### Algorithmic Thinking
+Breakes down a problem into steps identiyfing what data structure is best for the task.
+
 ### Time Complexity
 Way of showing how the runtime of a function increases as the size of input increases.
 
