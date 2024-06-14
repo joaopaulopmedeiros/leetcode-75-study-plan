@@ -28,11 +28,13 @@ It means the order of magnitude of complexity.
 
 "Upper bounds" because it measures how the algorithm performs in the worst case scenario.
 
+<img src="./docs/algorithmic-complexity.png">
+
+#### ** Captions
 - O(1): constant time;
 - O(logn): logarithmic time;
 - O(n): linear time;
 - O(n^2): quadratic time
-<img src="./docs/algorithmic-complexity.png">
 
 ## References
 - [Youtube - Algorithms and Data Structures Tutorial](https://www.youtube.com/watch?v=8hly31xKli0)
